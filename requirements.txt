@@ -3,3 +3,4 @@ numpy
 ipython
 matplotlib
 pyarrow
+jinja2
